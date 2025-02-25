@@ -1,7 +1,7 @@
-}
-"mail-1": {
-    "from": "Data Center",
-    "icon": null,
-    "content": ""
-}
+{
+    "mail-1": {
+        "from": "Data Center",
+        "icon": null,
+        "content": "How are you?"
+    },
 }
